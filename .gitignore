@@ -1,0 +1,22 @@
+# Keil 编译产物
+Objects/
+Listings/
+*.o
+*.axf
+*.crf
+*.d
+*.dep
+*.htm
+*.map
+*.lnp
+*.lst
+*.bak
+*.bak_gbk
+
+# 个人工程设置
+*.uvopt
+*.uvguix
+
+# 系统文件
+.DS_Store
+Thumbs.db
